@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596543744829",
+    "project_id": "music-chat-ca881",
+    "storage_bucket": "music-chat-ca881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596543744829:android:ec787e2e9cfcc97f45b354",
+        "android_client_info": {
+          "package_name": "com.example.music_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596543744829-gfie5o5edqjufklh50r3revu70bp1mdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtkGMvgxWRBBjJLWxLRIMafPBMKsawzkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596543744829-gfie5o5edqjufklh50r3revu70bp1mdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
